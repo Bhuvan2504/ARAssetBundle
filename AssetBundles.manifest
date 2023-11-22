@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 698805688
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: tesla
+      Dependencies: {}
